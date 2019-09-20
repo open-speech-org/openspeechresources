@@ -10,5 +10,6 @@ DIMEx100|[turing.iimas.unam.mx](http://turing.iimas.unam.mx/~luis/DIME/CORPUS-DI
 VoxForve|[VoxForge.org](voxforge.org)| GPL | Utterance | 50+
 LibrVox|[libribox.org](https://librivox.org/)| Public Domain | No annotation | 400+
 Common Voice|[voice.mozilla.org](https://voice.mozilla.org/en/datasets)| CC | Uterance | 27+
+M-AILABS|[caito.de](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/#more-242)| Custom | Uterance | 108
 
 Check this [curated list](https://github.com/JRMeyer/open-speech-corpora) also
