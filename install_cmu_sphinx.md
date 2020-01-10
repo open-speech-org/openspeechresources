@@ -8,6 +8,7 @@ First you need to install some OS dependencies
 sudo apt update
 sudo apt install -y autoconf libtool automake
 sudo apt install -y bison swig
+sudo apt install -y pulseaudio libpulse-dev
 ```
 
 First component in the CMU Sphinx stack is Sphinx base
@@ -16,6 +17,7 @@ First component in the CMU Sphinx stack is Sphinx base
 git clone https://github.com/cmusphinx/sphinxbase
 cd sphinxbase
 bash autogen.sh
+bash configure
 make
 sudo make install
 ```
@@ -24,7 +26,9 @@ After Sphinx Train
 
 ```bash
 git clone https://github.com/cmusphinx/sphinxtrain
+cd sphinxtrain
 bash autoconf.sh
+bash configure
 make
 sudo make instlal
 ```
@@ -35,6 +39,7 @@ Then Pocket Sphinx
 git clone https://github.com/cmusphinx/pocketsphinx
 cd pocketsphinx
 bash autogen.sh
+bash configure
 make
 sudo make install
 ```
