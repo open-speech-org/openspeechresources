@@ -27,7 +27,7 @@ After Sphinx Train
 ```bash
 git clone https://github.com/cmusphinx/sphinxtrain
 cd sphinxtrain
-bash autoconf.sh
+bash autogen.sh
 bash configure
 make
 sudo make instlal
