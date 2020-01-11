@@ -30,7 +30,7 @@ cd sphinxtrain
 bash autogen.sh
 bash configure
 make
-sudo make instlal
+sudo make install
 ```
 
 Then Pocket Sphinx
