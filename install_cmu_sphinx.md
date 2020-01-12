@@ -44,3 +44,13 @@ make
 sudo make install
 ```
 
+To generate a Language Model usue CMUCLMTK
+
+```bash
+wget https://downloads.sourceforge.net/project/cmusphinx/cmuclmtk/0.7/cmuclmtk-0.7.tar.gz
+tar -xzvf cmuclmtk-0.7.tar.gz
+cd cmuclmtk-0.7
+bash configure
+make
+sudo make install
+```
