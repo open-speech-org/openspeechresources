@@ -19,5 +19,6 @@ Google Language Resources CO | [Open SLR 72](http://www.openslr.org/72/) | CC-Sh
 Google Language Resources PE | [Open SLR 73](http://www.openslr.org/73/) | CC-Share A like v4.0 | Uterance | -
 Google Language Resources PR | [Open SLR 74](http://www.openslr.org/74/) | CC-Share A like v4.0 | Uterance | -
 Google Language Resources VE | [Open SLR 75](http://www.openslr.org/75/) | CC-Share A like v4.0 | Uterance | -
+LibriVox Spanish | [LDC2020S01](https://catalog.ldc.upenn.edu/LDC2020S01)|Librivox Open Licence|Uterance| 73
 
 Check this [curated list](https://github.com/JRMeyer/open-speech-corpora) also
