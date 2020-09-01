@@ -14,4 +14,5 @@ Heroico|[Open SLR 39](http://www.openslr.org/39/)| LDC User Agreement for Non-Me
 Google Language Resources Latin American | Open SLR [61](http://www.openslr.org/61/) [71](http://www.openslr.org/71/) [72](http://www.openslr.org/72/) [73](http://www.openslr.org/73/) [74](http://www.openslr.org/74/) [75](http://www.openslr.org/75/) | CC-Share A like v4.0 | Uterance | 37|Studio| Argentinean, Chilean, Colombian, Peruvian, Puerto Rican, Venezuelan | Internet|2020| 
 TEDx Spanish Corpus | [Open SLR 67](http://www.openslr.org/67/)| CC-Share A like v4.0 | Utterance | 24 | Studio |  Mexican, Argentinian, Others | Technical Open Talks|2019|
 LibriVox Spanish | [LDC2020S01](https://catalog.ldc.upenn.edu/LDC2020S01)|Librivox Open Licence|Uterance| 73 | Noisy|Peninsular, Mexican, Argentinian, Others | LibriVox|2020|
+
 Check this [curated list](https://github.com/JRMeyer/open-speech-corpora) also
