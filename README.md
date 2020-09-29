@@ -6,6 +6,11 @@ Resource name|URL|Licence|Annotation Level|Length|Recording Conditions|Accents|S
 |-|-|-|-|-|-|-|-|-|
 Open Speech corpus|[openspeechcorpus.contraslash.com](http://openspeechcorpus.contraslash.com)|MIT|Utterance|50h +|Noisy|Colombian, Venezuelan|Short stories|2018|
 CIEMPIESS|[ciempiess.org](http://www.ciempiess.org/downloads)|CC-Share A like v4.0| Word | 17h|Studio|Mexican | Radio Program|2014|
+CIEMPIESS LIGHT|[ciempiess.org](http://www.ciempiess.org/downloads)|CC-Share A like v4.0| Word | 18h|Studio|Mexican | Radio Program|2016|
+CIEMPIESS BALANCE|[ciempiess.org](http://www.ciempiess.org/downloads)|CC-Share A like v4.0| Word | 18h|Studio|Mexican | Radio Program|2018|
+CIEMPIESS EXPERIMENTATION (COMPLEMENTARY)|[ciempiess.org](http://www.ciempiess.org/downloads)|CC-Share A like v4.0| Word | 1h|Studio|Mexican | Radio Program|2018|
+CIEMPIESS EXPERIMENTATION (FEM)|[ciempiess.org](http://www.ciempiess.org/downloads)|CC-Share A like v4.0| Word | 13h|Studio|Mexican | Radio Program|2018|
+CIEMPIESS EXPERIMENTATION (TEST)|[ciempiess.org](http://www.ciempiess.org/downloads)|CC-Share A like v4.0| Word | 8h|Studio|Mexican | Radio Program|2018|
 DIMEx100|[turing.iimas.unam.mx](http://turing.iimas.unam.mx/~luis/DIME/CORPUS-DIMEX.html)| Free for Academic Purposes |Phonetic|5h|Studio|Mexican | Internet| 2004|
 VoxForve|[VoxForge.org](voxforge.org)| GPL | Utterance | 50+|Noisy|Peninsular, Mexican, Argentinian, Others | Internet | 2009| 
 Common Voice|[voice.mozilla.org](https://voice.mozilla.org/en/datasets)| CC0 | Uterance | 529|Noisy|Peninsular, Mexican, Argentinian, Others | Internet|2020| 
